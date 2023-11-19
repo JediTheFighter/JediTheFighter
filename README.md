@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JediTheFighter
 - 👀 I’m interested in Android Development in general
-- 🌱 I’m currently learning flutter , compose
+- 🧑🏻‍💻 I’m experienced in flutter, jetpack compose.
+- 🌱 I'm learning about Web Development to become fullstack developer.
 - 💞️ I’m looking to collaborate on Android development
 - 📫 How to reach me angadiparambilgurudas@gmail.com
 
